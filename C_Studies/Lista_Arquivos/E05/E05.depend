@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558570174 source:c:\users\acsim\desktop\lista_arquivos\e05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
