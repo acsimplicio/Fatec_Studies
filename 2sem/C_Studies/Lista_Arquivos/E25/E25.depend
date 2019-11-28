@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1560309607 source:c:\users\acsim\documents\fatec_studies\c_studies\lista_arquivos\e25\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+

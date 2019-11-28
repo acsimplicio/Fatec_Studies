@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1573781248 source:c:\users\aluno\desktop\arvore_binaria\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574387031 source:c:\users\aluno\desktop\arvore_binaria\arvore_binaria\main.c
+	<stdio.h>
+	<stdlib.h>
+

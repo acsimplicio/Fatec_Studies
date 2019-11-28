@@ -1,0 +1,2 @@
+Código: 001 | Descrição: agua | Quantidade: 0
+Código: 002 | Descrição: humus | Quantidade: 5

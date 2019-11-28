@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1569276004 source:c:\users\aluno\desktop\desafio_sakaue\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1569184804 source:c:\users\acsim\desktop\desafio_sakaue\main.c
+	<stdio.h>
+	<stdlib.h>
+

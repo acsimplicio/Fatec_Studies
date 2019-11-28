@@ -1,0 +1,10 @@
+int *p, x = 5;
+*p *=  2**p;
+printf("%d", x);
+
+* indica que p será um ponteiro e em alguns casos como em *= indica multiplicação;
+
+A saída do programa será 5;
+
+
+Vou aproveitar o txt para dizer que não consegui aprender alocação dinâmica direito, não consegui pegar, então por isso faltam os exercícios 26 em diante da lista.

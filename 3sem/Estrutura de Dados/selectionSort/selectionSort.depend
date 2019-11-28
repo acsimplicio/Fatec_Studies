@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569549153 source:c:\users\aluno\desktop\selectionsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
